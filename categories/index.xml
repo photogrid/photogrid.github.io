@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PhotoGrid - Add fun to photo collages</title>
-    <link>https://blog.photogrid.app/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2019 18:27:39 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.photogrid.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>feature</title>
-      <link>https://blog.photogrid.app/categories/feature/</link>
+      <link>/categories/feature/</link>
       <pubDate>Thu, 12 Dec 2019 18:27:39 +0800</pubDate>
       
-      <guid>https://blog.photogrid.app/categories/feature/</guid>
+      <guid>/categories/feature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://blog.photogrid.app/categories/tutorial/</link>
+      <link>/categories/tutorial/</link>
       <pubDate>Thu, 12 Dec 2019 18:15:03 +0800</pubDate>
       
-      <guid>https://blog.photogrid.app/categories/tutorial/</guid>
+      <guid>/categories/tutorial/</guid>
       <description></description>
     </item>
     
