@@ -1,0 +1,26 @@
+{
+  "name": "PhotoGrid",
+  "short_name": "PhotoGrid",
+  "icons": [
+    {
+      "src": "/images/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.roidapp.photogrid"
+    }
+  ],
+  "background_color": "#000000",
+  "theme_color": "#2fbdc7"
+}
