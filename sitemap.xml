@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>/tags/feature/</loc>
+    <lastmod>2019-12-12T18:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/feature/</loc>
+    <lastmod>2019-12-12T18:27:39+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-12-12T18:27:39+08:00</lastmod>
   </url>
@@ -28,16 +38,6 @@
   </url>
   
   <url>
-    <loc>/categories/tutorial/</loc>
-    <lastmod>2019-12-12T18:27:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2019-12-12T18:27:39+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/custom-logo/</loc>
     <lastmod>2019-12-12T18:22:05+08:00</lastmod>
   </url>
@@ -49,6 +49,16 @@
   
   <url>
     <loc>/posts/slide-show-maker/</loc>
+    <lastmod>2019-12-12T18:15:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2019-12-12T18:15:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tutorial/</loc>
     <lastmod>2019-12-12T18:15:03+08:00</lastmod>
   </url>
   
