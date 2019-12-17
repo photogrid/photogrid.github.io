@@ -2,3 +2,31 @@
 .logo__link h2 {
   margin-bottom: 0;
 }
+
+.logo__link img {
+  margin-right: .5rem;
+}
+.logo__link span {
+  width: calc(100% - 32px - .5rem);
+}
+
+.vertical_middle:before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.vertical_middle * {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+@media screen and (max-width: 48em) {
+  .menu__social a {
+    text-align: center;
+  }
+  .menu__social span {
+    display: none;
+  }
+}
