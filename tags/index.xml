@@ -12,20 +12,92 @@
     
     
     <item>
-      <title>feature</title>
-      <link>/tags/feature/</link>
-      <pubDate>Thu, 12 Dec 2019 18:27:39 +0800</pubDate>
+      <title>logo</title>
+      <link>/tags/logo/</link>
+      <pubDate>Thu, 12 Dec 2019 18:22:05 +0800</pubDate>
       
-      <guid>/tags/feature/</guid>
+      <guid>/tags/logo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tutorial</title>
-      <link>/tags/tutorial/</link>
+      <title>watermark</title>
+      <link>/tags/watermark/</link>
+      <pubDate>Thu, 12 Dec 2019 18:22:05 +0800</pubDate>
+      
+      <guid>/tags/watermark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gif</title>
+      <link>/tags/gif/</link>
+      <pubDate>Thu, 12 Dec 2019 18:19:09 +0800</pubDate>
+      
+      <guid>/tags/gif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meme</title>
+      <link>/tags/meme/</link>
+      <pubDate>Thu, 12 Dec 2019 18:19:09 +0800</pubDate>
+      
+      <guid>/tags/meme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slideshow</title>
+      <link>/tags/slideshow/</link>
       <pubDate>Thu, 12 Dec 2019 18:15:03 +0800</pubDate>
       
-      <guid>/tags/tutorial/</guid>
+      <guid>/tags/slideshow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scrapbook</title>
+      <link>/tags/scrapbook/</link>
+      <pubDate>Thu, 12 Dec 2019 18:10:13 +0800</pubDate>
+      
+      <guid>/tags/scrapbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>/tags/video/</link>
+      <pubDate>Thu, 12 Dec 2019 18:06:30 +0800</pubDate>
+      
+      <guid>/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ar</title>
+      <link>/tags/ar/</link>
+      <pubDate>Thu, 12 Dec 2019 15:55:52 +0800</pubDate>
+      
+      <guid>/tags/ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>camera</title>
+      <link>/tags/camera/</link>
+      <pubDate>Thu, 12 Dec 2019 15:55:52 +0800</pubDate>
+      
+      <guid>/tags/camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face filter</title>
+      <link>/tags/face-filter/</link>
+      <pubDate>Thu, 12 Dec 2019 15:55:52 +0800</pubDate>
+      
+      <guid>/tags/face-filter/</guid>
       <description></description>
     </item>
     
