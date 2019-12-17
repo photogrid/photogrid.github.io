@@ -1,3 +1,7 @@
+.logo__link {
+  width: 100%;
+}
+
 .logo__link h1,
 .logo__link h2 {
   margin-bottom: 0;
