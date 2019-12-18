@@ -6,10 +6,19 @@
     <description>Recent content in Tags on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 17:46:55 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 18:34:21 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>watermark</title>
+      <link>/tags/watermark/</link>
+      <pubDate>Wed, 18 Dec 2019 18:34:21 +0800</pubDate>
+      
+      <guid>/tags/watermark/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>snow</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 12 Dec 2019 18:22:05 +0800</pubDate>
       
       <guid>/tags/logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>watermark</title>
-      <link>/tags/watermark/</link>
-      <pubDate>Thu, 12 Dec 2019 18:22:05 +0800</pubDate>
-      
-      <guid>/tags/watermark/</guid>
       <description></description>
     </item>
     
