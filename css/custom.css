@@ -26,7 +26,7 @@
   display: inline-block;
 }
 
-@media screen and (max-width: 48em) {
+@media screen and (max-width: 64em) {
   .menu__social a {
     text-align: center;
   }
