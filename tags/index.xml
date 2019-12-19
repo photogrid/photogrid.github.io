@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PhotoGrid - Add fun to photo collages</title>
-    <link>/tags/</link>
+    <link>https://blog.photogrid.app/tags/</link>
     <description>Recent content in Tags on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2019 19:29:44 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.photogrid.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>filter</title>
-      <link>/tags/filter/</link>
+      <link>https://blog.photogrid.app/tags/filter/</link>
       <pubDate>Wed, 18 Dec 2019 19:29:44 +0800</pubDate>
       
-      <guid>/tags/filter/</guid>
+      <guid>https://blog.photogrid.app/tags/filter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>watermark</title>
-      <link>/tags/watermark/</link>
+      <link>https://blog.photogrid.app/tags/watermark/</link>
       <pubDate>Wed, 18 Dec 2019 18:34:21 +0800</pubDate>
       
-      <guid>/tags/watermark/</guid>
+      <guid>https://blog.photogrid.app/tags/watermark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snow</title>
-      <link>/tags/snow/</link>
+      <link>https://blog.photogrid.app/tags/snow/</link>
       <pubDate>Wed, 18 Dec 2019 17:46:55 +0800</pubDate>
       
-      <guid>/tags/snow/</guid>
+      <guid>https://blog.photogrid.app/tags/snow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>logo</title>
-      <link>/tags/logo/</link>
+      <link>https://blog.photogrid.app/tags/logo/</link>
       <pubDate>Thu, 12 Dec 2019 18:22:05 +0800</pubDate>
       
-      <guid>/tags/logo/</guid>
+      <guid>https://blog.photogrid.app/tags/logo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gif</title>
-      <link>/tags/gif/</link>
+      <link>https://blog.photogrid.app/tags/gif/</link>
       <pubDate>Thu, 12 Dec 2019 18:19:09 +0800</pubDate>
       
-      <guid>/tags/gif/</guid>
+      <guid>https://blog.photogrid.app/tags/gif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meme</title>
-      <link>/tags/meme/</link>
+      <link>https://blog.photogrid.app/tags/meme/</link>
       <pubDate>Thu, 12 Dec 2019 18:19:09 +0800</pubDate>
       
-      <guid>/tags/meme/</guid>
+      <guid>https://blog.photogrid.app/tags/meme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>slideshow</title>
-      <link>/tags/slideshow/</link>
+      <link>https://blog.photogrid.app/tags/slideshow/</link>
       <pubDate>Thu, 12 Dec 2019 18:15:03 +0800</pubDate>
       
-      <guid>/tags/slideshow/</guid>
+      <guid>https://blog.photogrid.app/tags/slideshow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scrapbook</title>
-      <link>/tags/scrapbook/</link>
+      <link>https://blog.photogrid.app/tags/scrapbook/</link>
       <pubDate>Thu, 12 Dec 2019 18:10:13 +0800</pubDate>
       
-      <guid>/tags/scrapbook/</guid>
+      <guid>https://blog.photogrid.app/tags/scrapbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>/tags/video/</link>
+      <link>https://blog.photogrid.app/tags/video/</link>
       <pubDate>Thu, 12 Dec 2019 18:06:30 +0800</pubDate>
       
-      <guid>/tags/video/</guid>
+      <guid>https://blog.photogrid.app/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ar</title>
-      <link>/tags/ar/</link>
+      <link>https://blog.photogrid.app/tags/ar/</link>
       <pubDate>Thu, 12 Dec 2019 15:55:52 +0800</pubDate>
       
-      <guid>/tags/ar/</guid>
+      <guid>https://blog.photogrid.app/tags/ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>camera</title>
-      <link>/tags/camera/</link>
+      <link>https://blog.photogrid.app/tags/camera/</link>
       <pubDate>Thu, 12 Dec 2019 15:55:52 +0800</pubDate>
       
-      <guid>/tags/camera/</guid>
+      <guid>https://blog.photogrid.app/tags/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Face filter</title>
-      <link>/tags/face-filter/</link>
+      <link>https://blog.photogrid.app/tags/face-filter/</link>
       <pubDate>Thu, 12 Dec 2019 15:55:52 +0800</pubDate>
       
-      <guid>/tags/face-filter/</guid>
+      <guid>https://blog.photogrid.app/tags/face-filter/</guid>
       <description></description>
     </item>
     

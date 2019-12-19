@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>logo on PhotoGrid - Add fun to photo collages</title>
-    <link>/tags/logo/</link>
+    <link>https://blog.photogrid.app/tags/logo/</link>
     <description>Recent content in logo on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2019 18:22:05 +0800</lastBuildDate>
     
-	<atom:link href="/tags/logo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.photogrid.app/tags/logo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Custom Logo - Make your own style</title>
-      <link>/posts/custom-logo/</link>
+      <link>https://blog.photogrid.app/posts/custom-logo/</link>
       <pubDate>Thu, 12 Dec 2019 18:22:05 +0800</pubDate>
       
-      <guid>/posts/custom-logo/</guid>
+      <guid>https://blog.photogrid.app/posts/custom-logo/</guid>
       <description>You may want to remove watermark when you&#39;re editing your photo.
 But in PhotoGrid, you can customize your own watermark and make your own special signature!
   </description>
