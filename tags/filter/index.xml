@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>filter on PhotoGrid - Add fun to photo collages</title>
+    <link>/tags/filter/</link>
+    <description>Recent content in filter on PhotoGrid - Add fun to photo collages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2019 19:29:44 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/filter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to apply filters on your photo | PhotoGrid Tutorial</title>
+      <link>/posts/how_to_apply_filters_on_your_photo/</link>
+      <pubDate>Wed, 18 Dec 2019 19:29:44 +0800</pubDate>
+      
+      <guid>/posts/how_to_apply_filters_on_your_photo/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

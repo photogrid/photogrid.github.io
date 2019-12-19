@@ -6,10 +6,28 @@
     <description>Recent content in Posts on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 18:34:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 09:56:02 +0800</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to create photo in photo edits | PhotoGrid Tutorial</title>
+      <link>/posts/how_to_create_photo_in_photo_edits/</link>
+      <pubDate>Thu, 19 Dec 2019 09:56:02 +0800</pubDate>
+      
+      <guid>/posts/how_to_create_photo_in_photo_edits/</guid>
+      <description> Choose a photo you’d like to create this photo in photo look. Select sticker and find “clip”. Clip the same photo. Copy the image and arrange each position.    </description>
+    </item>
+    
+    <item>
+      <title>How to apply filters on your photo | PhotoGrid Tutorial</title>
+      <link>/posts/how_to_apply_filters_on_your_photo/</link>
+      <pubDate>Wed, 18 Dec 2019 19:29:44 +0800</pubDate>
+      
+      <guid>/posts/how_to_apply_filters_on_your_photo/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>How to add customized watermark | PhotoGrid Tutorial</title>
