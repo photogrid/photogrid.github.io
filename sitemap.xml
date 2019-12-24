@@ -4,34 +4,41 @@
   
   <url>
     <loc>https://blog.photogrid.app/categories/</loc>
-    <lastmod>2019-12-19T09:56:02+08:00</lastmod>
+    <lastmod>2019-12-24T15:02:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/posts/how_to_create_photo_in_photo_edits/</loc>
-    <lastmod>2019-12-19T09:56:02+08:00</lastmod>
+    <loc>https://blog.photogrid.app/posts/cats_edits/</loc>
+    <lastmod>2019-12-24T15:02:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   
   <url>
     <loc>https://blog.photogrid.app/</loc>
-    <lastmod>2019-12-19T09:56:02+08:00</lastmod>
+    <lastmod>2019-12-24T15:02:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   
   <url>
     <loc>https://blog.photogrid.app/posts/</loc>
-    <lastmod>2019-12-19T09:56:02+08:00</lastmod>
+    <lastmod>2019-12-24T15:02:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   
   <url>
     <loc>https://blog.photogrid.app/categories/tutorial/</loc>
+    <lastmod>2019-12-24T15:02:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/posts/how_to_create_photo_in_photo_edits/</loc>
     <lastmod>2019-12-19T09:56:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
