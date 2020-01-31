@@ -6,10 +6,523 @@
     <description>Recent content in Tags on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jan 2020 15:28:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 11:15:13 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.photogrid.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blackpink dance</title>
+      <link>https://blog.photogrid.app/tags/blackpink-dance/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/blackpink-dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blackpink lisa</title>
+      <link>https://blog.photogrid.app/tags/blackpink-lisa/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/blackpink-lisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirror effect</title>
+      <link>https://blog.photogrid.app/tags/mirror-effect/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/mirror-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirror reflection</title>
+      <link>https://blog.photogrid.app/tags/mirror-reflection/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/mirror-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo editing</title>
+      <link>https://blog.photogrid.app/tags/photo-editing/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/photo-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>修圖</title>
+      <link>https://blog.photogrid.app/tags/%E4%BF%AE%E5%9C%96/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E4%BF%AE%E5%9C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>増粉教學</title>
+      <link>https://blog.photogrid.app/tags/%E5%A2%97%E7%B2%89%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E5%A2%97%E7%B2%89%E6%95%99%E5%AD%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>照片反轉</title>
+      <link>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E5%8F%8D%E8%BD%89/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E5%8F%8D%E8%BD%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>照片拼接</title>
+      <link>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E6%8B%BC%E6%8E%A5/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E6%8B%BC%E6%8E%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>照片拼貼</title>
+      <link>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E6%8B%BC%E8%B2%BC/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E6%8B%BC%E8%B2%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>照片編輯</title>
+      <link>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%85%A7%E7%89%87%E7%B7%A8%E8%BC%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>相片編輯</title>
+      <link>https://blog.photogrid.app/tags/%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%9B%B8%E7%89%87%E7%B7%A8%E8%BC%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>鏡像編輯</title>
+      <link>https://blog.photogrid.app/tags/%E9%8F%A1%E5%83%8F%E7%B7%A8%E8%BC%AF/</link>
+      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E9%8F%A1%E5%83%8F%E7%B7%A8%E8%BC%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blend two pictures</title>
+      <link>https://blog.photogrid.app/tags/blend-two-pictures/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/blend-two-pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>change background</title>
+      <link>https://blog.photogrid.app/tags/change-background/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/change-background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highlight</title>
+      <link>https://blog.photogrid.app/tags/highlight/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/highlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram 經營</title>
+      <link>https://blog.photogrid.app/tags/instagram-%E7%B6%93%E7%87%9F/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/instagram-%E7%B6%93%E7%87%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoshop tutorial</title>
+      <link>https://blog.photogrid.app/tags/photoshop-tutorial/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/photoshop-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://blog.photogrid.app/tags/story/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>女生修圖</title>
+      <link>https://blog.photogrid.app/tags/%E5%A5%B3%E7%94%9F%E4%BF%AE%E5%9C%96/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E5%A5%B3%E7%94%9F%E4%BF%AE%E5%9C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>拼貼</title>
+      <link>https://blog.photogrid.app/tags/%E6%8B%BC%E8%B2%BC/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E6%8B%BC%E8%B2%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教學影片</title>
+      <link>https://blog.photogrid.app/tags/%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>編輯教學</title>
+      <link>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E6%95%99%E5%AD%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美化圖片</title>
+      <link>https://blog.photogrid.app/tags/%E7%BE%8E%E5%8C%96%E5%9C%96%E7%89%87/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%BE%8E%E5%8C%96%E5%9C%96%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美圖</title>
+      <link>https://blog.photogrid.app/tags/%E7%BE%8E%E5%9C%96/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%BE%8E%E5%9C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>貼文</title>
+      <link>https://blog.photogrid.app/tags/%E8%B2%BC%E6%96%87/</link>
+      <pubDate>Fri, 31 Jan 2020 11:12:33 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E8%B2%BC%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#savage</title>
+      <link>https://blog.photogrid.app/tags/#savage/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/#savage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lit</title>
+      <link>https://blog.photogrid.app/tags/lit/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/lit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoshop</title>
+      <link>https://blog.photogrid.app/tags/photoshop/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street</title>
+      <link>https://blog.photogrid.app/tags/street/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/street/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street photography</title>
+      <link>https://blog.photogrid.app/tags/street-photography/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/street-photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street shooting</title>
+      <link>https://blog.photogrid.app/tags/street-shooting/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/street-shooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street style</title>
+      <link>https://blog.photogrid.app/tags/street-style/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/street-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tiktok</title>
+      <link>https://blog.photogrid.app/tags/tiktok/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/tiktok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual effects</title>
+      <link>https://blog.photogrid.app/tags/visual-effects/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/visual-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>編輯圖片</title>
+      <link>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E5%9C%96%E7%89%87/</link>
+      <pubDate>Fri, 31 Jan 2020 10:58:30 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E5%9C%96%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instagram</title>
+      <link>https://blog.photogrid.app/tags/instagram/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram hacks</title>
+      <link>https://blog.photogrid.app/tags/instagram-hacks/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/instagram-hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram stories</title>
+      <link>https://blog.photogrid.app/tags/instagram-stories/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/instagram-stories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instagram tips</title>
+      <link>https://blog.photogrid.app/tags/instagram-tips/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/instagram-tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://blog.photogrid.app/tags/post/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>https://blog.photogrid.app/tags/social-media/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>增粉丝ig</title>
+      <link>https://blog.photogrid.app/tags/%E5%A2%9E%E7%B2%89%E4%B8%9Dig/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E5%A2%9E%E7%B2%89%E4%B8%9Dig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>潮</title>
+      <link>https://blog.photogrid.app/tags/%E6%BD%AE/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E6%BD%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>編輯</title>
+      <link>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF/</link>
+      <pubDate>Fri, 31 Jan 2020 10:42:35 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moving effect</title>
+      <link>https://blog.photogrid.app/tags/moving-effect/</link>
+      <pubDate>Fri, 31 Jan 2020 10:35:55 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/moving-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>修圖app</title>
+      <link>https://blog.photogrid.app/tags/%E4%BF%AE%E5%9C%96app/</link>
+      <pubDate>Fri, 31 Jan 2020 10:35:55 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E4%BF%AE%E5%9C%96app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美顏app</title>
+      <link>https://blog.photogrid.app/tags/%E7%BE%8E%E9%A1%8Fapp/</link>
+      <pubDate>Fri, 31 Jan 2020 10:35:55 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/%E7%BE%8E%E9%A1%8Fapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editing apps</title>
+      <link>https://blog.photogrid.app/tags/editing-apps/</link>
+      <pubDate>Fri, 31 Jan 2020 10:26:44 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/editing-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free polaroid</title>
+      <link>https://blog.photogrid.app/tags/free-polaroid/</link>
+      <pubDate>Fri, 31 Jan 2020 10:26:44 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/free-polaroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polaroid</title>
+      <link>https://blog.photogrid.app/tags/polaroid/</link>
+      <pubDate>Fri, 31 Jan 2020 10:26:44 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/polaroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polaroid for iphone</title>
+      <link>https://blog.photogrid.app/tags/polaroid-for-iphone/</link>
+      <pubDate>Fri, 31 Jan 2020 10:26:44 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/polaroid-for-iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polaroid sticker</title>
+      <link>https://blog.photogrid.app/tags/polaroid-sticker/</link>
+      <pubDate>Fri, 31 Jan 2020 10:26:44 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/polaroid-sticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sticker</title>
+      <link>https://blog.photogrid.app/tags/sticker/</link>
+      <pubDate>Fri, 31 Jan 2020 10:26:44 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/sticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curve text</title>
+      <link>https://blog.photogrid.app/tags/curve-text/</link>
+      <pubDate>Fri, 31 Jan 2020 10:16:00 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/curve-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text art</title>
+      <link>https://blog.photogrid.app/tags/text-art/</link>
+      <pubDate>Fri, 31 Jan 2020 10:16:00 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/text-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text design</title>
+      <link>https://blog.photogrid.app/tags/text-design/</link>
+      <pubDate>Fri, 31 Jan 2020 10:16:00 +0800</pubDate>
+      
+      <guid>https://blog.photogrid.app/tags/text-design/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cool edition</title>
@@ -26,15 +539,6 @@
       <pubDate>Tue, 14 Jan 2020 15:28:49 +0800</pubDate>
       
       <guid>https://blog.photogrid.app/tags/egirl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lit</title>
-      <link>https://blog.photogrid.app/tags/lit/</link>
-      <pubDate>Tue, 14 Jan 2020 15:28:49 +0800</pubDate>
-      
-      <guid>https://blog.photogrid.app/tags/lit/</guid>
       <description></description>
     </item>
     
