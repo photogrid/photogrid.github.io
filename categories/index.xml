@@ -6,26 +6,26 @@
     <description>Recent content in Categories on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2020 11:15:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 13:29:26 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.photogrid.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>tutorial</title>
-      <link>https://blog.photogrid.app/categories/tutorial/</link>
-      <pubDate>Fri, 31 Jan 2020 11:15:13 +0800</pubDate>
+      <title>feature</title>
+      <link>https://blog.photogrid.app/categories/feature/</link>
+      <pubDate>Fri, 07 Feb 2020 13:29:26 +0800</pubDate>
       
-      <guid>https://blog.photogrid.app/categories/tutorial/</guid>
+      <guid>https://blog.photogrid.app/categories/feature/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>feature</title>
-      <link>https://blog.photogrid.app/categories/feature/</link>
-      <pubDate>Tue, 14 Jan 2020 15:19:38 +0800</pubDate>
+      <title>tutorial</title>
+      <link>https://blog.photogrid.app/categories/tutorial/</link>
+      <pubDate>Fri, 07 Feb 2020 13:29:26 +0800</pubDate>
       
-      <guid>https://blog.photogrid.app/categories/feature/</guid>
+      <guid>https://blog.photogrid.app/categories/tutorial/</guid>
       <description></description>
     </item>
     
