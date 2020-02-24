@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>photo grid on PhotoGrid - Add fun to photo collages</title>
     <link>https://blog.photogrid.app/tags/photo-grid/</link>
     <description>Recent content in photo grid on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2020 13:25:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 13:29:26 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.photogrid.app/tags/photo-grid/index.xml" rel="self" type="application/rss+xml" />
     

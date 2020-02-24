@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="https://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://blog.photogrid.app/tags/#linkedin/</loc>
@@ -94,6 +94,13 @@
   </url>
   
   <url>
+    <loc>https://blog.photogrid.app/tags/photo-grid/</loc>
+    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.photogrid.app/tags/photo-grid-app/</loc>
     <lastmod>2020-02-07T13:29:26+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -164,7 +171,7 @@
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/tags/photo-grid/</loc>
+    <loc>https://blog.photogrid.app/tags/photoshop/</loc>
     <lastmod>2020-02-07T13:25:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -305,6 +312,13 @@
   
   <url>
     <loc>https://blog.photogrid.app/tags/romantic/</loc>
+    <lastmod>2020-02-07T13:18:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/scrapbook/</loc>
     <lastmod>2020-02-07T13:18:22+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -507,6 +521,13 @@
   </url>
   
   <url>
+    <loc>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF/</loc>
+    <lastmod>2020-01-31T11:12:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E6%95%99%E5%AD%B8/</loc>
     <lastmod>2020-01-31T11:12:33+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -550,13 +571,6 @@
   
   <url>
     <loc>https://blog.photogrid.app/tags/lit/</loc>
-    <lastmod>2020-01-31T10:58:30+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/photoshop/</loc>
     <lastmod>2020-01-31T10:58:30+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -662,13 +676,6 @@
   
   <url>
     <loc>https://blog.photogrid.app/tags/%E6%BD%AE/</loc>
-    <lastmod>2020-01-31T10:42:35+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF/</loc>
     <lastmod>2020-01-31T10:42:35+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -1013,13 +1020,6 @@
   <url>
     <loc>https://blog.photogrid.app/tags/slideshow/</loc>
     <lastmod>2019-12-12T18:15:03+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/scrapbook/</loc>
-    <lastmod>2019-12-12T18:10:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>

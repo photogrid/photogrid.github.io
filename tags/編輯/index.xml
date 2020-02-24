@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>編輯 on PhotoGrid - Add fun to photo collages</title>
     <link>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF/</link>
     <description>Recent content in 編輯 on PhotoGrid - Add fun to photo collages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2020 10:42:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 11:12:33 +0800</lastBuildDate>
     
 	<atom:link href="https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF/index.xml" rel="self" type="application/rss+xml" />
     
