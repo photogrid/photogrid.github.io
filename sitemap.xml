@@ -3,14 +3,196 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.photogrid.app/tags/#linkedin/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
+    <loc>https://blog.photogrid.app/categories/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/categories/</loc>
+    <loc>https://blog.photogrid.app/tags/cool/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/posts/cool_edits_help_you_standout_on_social_media/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/categories/feature/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/how-to/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/ig/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/instagram-stories/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/outfit-ideas/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/photo-grid-app/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/photo-moving-effect/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/picsart-photo-studio/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/picsart-tutorial/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/popular/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/posts/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/savage/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/social-media/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/social-media-marketing/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/social-media-tips/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/trends/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/trendy/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/categories/tutorial/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/%E5%A2%9E%E7%B2%89%E4%B8%9Dig/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/%E5%BD%B1%E7%89%87%E6%95%99%E5%AD%B8/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E6%95%99%E5%AD%B8/</loc>
+    <lastmod>2020-02-27T14:06:06+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/posts/over_400_layouts_demonstration/</loc>
+    <lastmod>2020-02-27T14:00:42+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.photogrid.app/tags/#linkedin/</loc>
     <lastmod>2020-02-07T13:29:26+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -52,20 +234,6 @@
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/categories/feature/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/how-to/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.photogrid.app/tags/how-to-do-moving-picture-effect/</loc>
     <lastmod>2020-02-07T13:29:26+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -94,42 +262,7 @@
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/tags/photo-grid-app/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/posts/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.photogrid.app/tags/tinder/</loc>
-    <lastmod>2020-02-07T13:29:26+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/categories/tutorial/</loc>
     <lastmod>2020-02-07T13:29:26+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -507,13 +640,6 @@
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/tags/%E7%B7%A8%E8%BC%AF%E6%95%99%E5%AD%B8/</loc>
-    <lastmod>2020-01-31T11:12:33+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.photogrid.app/tags/%E7%BE%8E%E5%8C%96%E5%9C%96%E7%89%87/</loc>
     <lastmod>2020-01-31T11:12:33+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -626,13 +752,6 @@
   </url>
   
   <url>
-    <loc>https://blog.photogrid.app/tags/instagram-stories/</loc>
-    <lastmod>2020-01-31T10:42:35+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.photogrid.app/tags/instagram-tips/</loc>
     <lastmod>2020-01-31T10:42:35+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -641,20 +760,6 @@
   
   <url>
     <loc>https://blog.photogrid.app/tags/post/</loc>
-    <lastmod>2020-01-31T10:42:35+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/social-media/</loc>
-    <lastmod>2020-01-31T10:42:35+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/%E5%A2%9E%E7%B2%89%E4%B8%9Dig/</loc>
     <lastmod>2020-01-31T10:42:35+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
@@ -809,13 +914,6 @@
   
   <url>
     <loc>https://blog.photogrid.app/tags/remix/</loc>
-    <lastmod>2020-01-14T15:28:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.photogrid.app/tags/savage/</loc>
     <lastmod>2020-01-14T15:28:49+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
