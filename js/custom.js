@@ -1,4 +1,4 @@
-(function() {
+(function () {
   var social = document.querySelectorAll('.widget-social__item');
   for (var i = 0; i < social.length; i++) {
     social[i].querySelector('a').addEventListener('click', function (e) {
@@ -17,7 +17,8 @@
   for (var i = 0; i < appbtnMenu.length; i++) {
     appbtnMenu[i].addEventListener('click', function (e) {
       if (this.getAttribute('data-store') === 'google_play') {
-        ga('send', 'event', 'google play', 'click', this.getAttribute('href'));
+        // ga('send', 'event', 'google play', 'click', this.getAttribute('href'));
+        ga('send', 'event', 'apk', 'click', this.getAttribute('href'));
       } else {
         ga('send', 'event', 'apple store', 'click', this.getAttribute('href'));
       }
@@ -27,7 +28,8 @@
   for (var i = 0; i < appbtnSidebar.length; i++) {
     appbtnSidebar[i].addEventListener('click', function (e) {
       if (this.getAttribute('data-store') === 'google_play') {
-        ga('send', 'event', 'google play', 'click', this.getAttribute('href'));
+        // ga('send', 'event', 'google play', 'click', this.getAttribute('href'));
+        ga('send', 'event', 'apk', 'click', this.getAttribute('href'));
       } else {
         ga('send', 'event', 'apple store', 'click', this.getAttribute('href'));
       }
